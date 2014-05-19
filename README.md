@@ -1,4 +1,3 @@
 Snooker-master-proekt-po-python
 ===============================
-
-Snooker-master
+Моя проект е игра и се казва Snooker-master 
