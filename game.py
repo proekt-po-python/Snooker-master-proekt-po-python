@@ -57,8 +57,8 @@ class Game():
         self.green = balls.ColorBall(coords=POS_GREEN, COLOR=GREEN, points=3)
         self.yellow = balls.ColorBall(coords=POS_YELLOW,
                                       COLOR=YELLOW, points=2)
-        self.first_player = Player("Selby")
-        self.second_player = Player("O'Sullivan")
+        self.first_player = Player("Player 1")
+        self.second_player = Player("Player 2")
         self.all_balls = deque([
                                self.redball1, self.redball2, self.redball3,
                                self.redball4, self.redball5, self.redball6,
