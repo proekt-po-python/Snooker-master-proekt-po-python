@@ -12,3 +12,4 @@ class Player():
             self.target = COLOR_TARGET
         else:
             self.target = RED_TARGET
+            
