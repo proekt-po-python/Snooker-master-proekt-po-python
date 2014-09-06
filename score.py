@@ -36,3 +36,4 @@ class Score():
             self.score_board.blit(first_player_turn, (IND_POS_ONE, POS_Y))
         else:
             self.score_board.blit(second_player_turn, (IND_POS_TWO, POS_Y))
+            
