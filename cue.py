@@ -33,3 +33,4 @@ class Cue:
         start_pos.x = coords.x + math.cos(math.radians(self.angle)) * r2
         start_pos.y = coords.y + math.sin(math.radians(self.angle)) * r2
         return (start_pos, end_pos)
+        
