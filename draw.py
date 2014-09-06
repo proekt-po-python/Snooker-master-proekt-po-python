@@ -15,3 +15,4 @@ class Draw():
         pygame.draw.line(self.game_surface, cue.color,
                          (int(start_pos.x), int(start_pos.y)), (int(end_pos.x),
                          int(end_pos.y)), CUE_WIDTH)
+                         
