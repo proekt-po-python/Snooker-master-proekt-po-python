@@ -97,3 +97,4 @@ class RedBall(Ball):
 
     def move(self, potted):
         super().move(potted)
+        
