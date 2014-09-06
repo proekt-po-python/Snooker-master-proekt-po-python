@@ -371,3 +371,4 @@ class Game():
         new_velocity_2 = Vec2D(new_velocity_2_n + new_velocity_2_t)
         ball.velocity = new_velocity_1
         next_ball.velocity = new_velocity_2
+        
